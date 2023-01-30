@@ -1,0 +1,7 @@
+require("plugins/packer")
+require("plugins/nvimtree")
+require("plugins/telescope")
+require("plugins/lualine")
+require("plugins/colorscheme")
+require("plugins/treesitter")
+require("plugins/lsp")
